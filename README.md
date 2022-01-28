@@ -1,13 +1,13 @@
-# {project title} ✨
+# Deploying Apps On Blockchain ✨
 
 ### Description
-{mini project description goes here...}
+Deploy an application on any blockchain network.
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/deploying-apps-on-blockchain/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/deploying-apps-on-blockchain" />
 </a>
 
 
